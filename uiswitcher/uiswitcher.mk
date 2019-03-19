@@ -20,4 +20,7 @@ PRODUCT_PACKAGES += \
     SquareUIandroid \
     SquareUIsys \
     SquareUIsettings \
-    ThumbUI
+    ThumbUI \
+    ThumbUI-GDialer \
+    ThumbUI-GContacts \
+    ThumbUI-GMessages

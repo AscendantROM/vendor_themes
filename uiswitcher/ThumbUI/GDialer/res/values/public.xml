@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="id" name="search_recycler_view" id="0x7f100229" />
+    <public type="id" name="empty_view_container" id="0x7f10022a" />
+    <public type="id" name="empty_view" id="0x7f10022b" />
+</resources>

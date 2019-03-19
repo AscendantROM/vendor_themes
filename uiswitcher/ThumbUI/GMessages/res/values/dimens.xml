@@ -1,0 +1,7 @@
+<resources>
+<dimen name="action_bar_text_size_big">34dp</dimen>
+<dimen name="google_toolbar_text_size_title">34dp</dimen>
+<dimen name="title_size">34dp</dimen>
+<dimen name="abc_text_size_title_material">34dp</dimen>
+<dimen name="action_bar_text_size">34dp</dimen>
+</resources>
