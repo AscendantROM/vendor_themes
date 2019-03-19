@@ -23,4 +23,5 @@ PRODUCT_PACKAGES += \
     ThumbUI \
     ThumbUI-GDialer \
     ThumbUI-GContacts \
-    ThumbUI-GMessages
+    ThumbUI-GMessages \
+    ThumbUI-Youtube
