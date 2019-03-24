@@ -19,9 +19,4 @@ PRODUCT_PACKAGES += \
     RoundierUIsys \
     SquareUIandroid \
     SquareUIsys \
-    SquareUIsettings \
-    ThumbUI \
-    ThumbUI-GDialer \
-    ThumbUI-GContacts \
-    ThumbUI-GMessages \
-    ThumbUI-Youtube
+    SquareUIsettings
