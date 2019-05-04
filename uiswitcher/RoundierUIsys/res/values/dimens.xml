@@ -3,5 +3,6 @@
     <dimen name="corner_size">24dp</dimen>
     <dimen name="corner_size_vol">99dp</dimen>
     <dimen name="brightness_drawable_corner">24dp</dimen>
+    <dimen name="brightness_dots_padding">10dp</dimen>
 </resources>
 
