@@ -14,6 +14,7 @@
 #
 
 PRODUCT_PACKAGES += \
+    DontTouchNotifications \
     NotificationsLeftAlign \
     RoundierUIandroid \
     RoundierUIsettings \
