@@ -14,6 +14,7 @@
 #
 
 PRODUCT_PACKAGES += \
+    NotificationsLeftAlign \
     RoundierUIandroid \
     RoundierUIsettings \
     RoundierUIsys \
