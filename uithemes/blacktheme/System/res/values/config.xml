@@ -9,5 +9,5 @@
     <bool name="config_allowNotificationIconTextTinting">true</bool>
 
     <!-- True if the notifications should tint the app name with the dynamic or the accent color -->
-    <bool name="config_allowNotificationAppNameTextTinting">true</bool
+    <bool name="config_allowNotificationAppNameTextTinting">true</bool>
 </resources>
