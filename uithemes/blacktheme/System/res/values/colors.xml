@@ -49,7 +49,7 @@
     <color name="notification_text_color1">@*android:color/theme_text1</color>
     <color name="notification_default_color_light">@*android:color/theme_text1</color>
     <color name="notification_default_color_dark">@*android:color/theme_text1</color>
-
+    <color name="notification_divider_color">#151618</color>
 
     <!-- Toast text and bg colors -->
     <color name="toast_bg_color">@*android:color/black</color>
