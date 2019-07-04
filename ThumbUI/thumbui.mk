@@ -1,7 +1,7 @@
 PRODUCT_PACKAGES += \
     ThumbUI-common \
-    ThumbUI-GDialer \
+#    ThumbUI-GDialer \
     ThumbUI-GContacts \
-    ThumbUI-GMessages \
-    ThumbUI-Youtube
+    ThumbUI-GMessages
+#    ThumbUI-Youtube
 
