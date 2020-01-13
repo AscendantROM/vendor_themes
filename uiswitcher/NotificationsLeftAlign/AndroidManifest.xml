@@ -2,7 +2,7 @@
         package="org.descendant.UI.notifications.align.left"
         android:versionCode="1"
         android:versionName="1.0">
-        <overlay android:targetPackage="android"
+        <overlay android:targetPackage="android" android:category="android.theme.customization.accent_color"
         android:priority="1"
         android:isStatic="false" />
 </manifest>
