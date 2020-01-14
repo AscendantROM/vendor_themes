@@ -1,7 +1,6 @@
 # Accents
 PRODUCT_PACKAGES += \
     Amber \
-    Black \
     Blue \
     BlueGrey \
     Brown \
