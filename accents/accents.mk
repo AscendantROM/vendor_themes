@@ -13,6 +13,7 @@ PRODUCT_PACKAGES += \
     LightBlue \
     LightGreen \
     Lime \
+    Mint \
     Orange \
     Pink \
     Purple \
