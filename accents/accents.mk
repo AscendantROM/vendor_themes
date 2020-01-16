@@ -1,29 +1,34 @@
 # Accents
 PRODUCT_PACKAGES += \
-    Amber \
-    Blue \
+    AnnieBrown \
+    BenefitsPink \
     BlueGrey \
     Brown \
+    CadPurple \
+    CosmopolitanPink \
     Cyan \
-    DeepOrange \
-    DeepPurple \
-    Green \
-    Grey \
+    EmyPurple \
+    FerrariRed \
     Indigo \
-    LightBlue \
-    LightGreen \
     Lime \
+    McYellow \
+    MessengerBlue \
     Mint \
-    Orange \
-    Pink \
-    Purple \
-    Red \
+    OrangeIsTheNewBlack \
+    PSBlue \
+    RazerGreen \
+    RubyRed \
+    Silver \
+    SnapYellow \
+    TGBlue \
     Teal \
-    UserOne \
-    UserTwo \
-    UserThree \
-    UserFour \
     UserFive \
-    UserSix \
+    UserFour \
+    UserOne \
     UserSeven \
+    UserSix \
+    UserThree \
+    UserTwo \
+    WAGreen \
+    XDAOrange \
     Yellow
