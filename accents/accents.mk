@@ -1,5 +1,23 @@
 # Accents
 PRODUCT_PACKAGES += \
+    AccentColorAosdpOverlay \
+    AccentColorBlackOverlay \
+    AccentColorBlueMondayOverlay \
+    AccentColorCinnamonOverlay \
+    AccentColorCocaColaOverlay \
+    AccentColorDiscordOverlay \
+    AccentColorGoldenShowerOverlay \
+    AccentColorGreenOverlay \
+    AccentColorGreenieOverlay \
+    AccentColorOceanOverlay \
+    AccentColorOrchidOverlay \
+    AccentColorParanoidOverlay \
+    AccentColorPepsiOverlay \
+    AccentColorPinkOverlay \
+    AccentColorPinkieOverlay \
+    AccentColorPurpleOverlay \
+    AccentColorXiaomiOverlay \
+    AccentColorYellowOverlay \
     AnnieBrown \
     BenefitsPink \
     BlueGrey \
