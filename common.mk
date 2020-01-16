@@ -10,6 +10,9 @@ include vendor/themes/bootanimation/bootanimation.mk
 # Fonts
 include vendor/themes/fonts/fonts.mk
 
+# Iconpacks
+include vendor/themes/iconpacks/iconpacks.mk
+
 # System Icon Switcher
 #include vendor/themes/sysiconswitcher/sysiconswitcher.mk
 
