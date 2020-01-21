@@ -16,9 +16,6 @@ include vendor/themes/iconpacks/iconpacks.mk
 # Iconshapes
 include vendor/themes/iconshapes/iconshapes.mk
 
-# Primary Colors
-include vendor/themes/primarycolors/primarycolors.mk
-
 # System Icon Switcher
 #include vendor/themes/sysiconswitcher/sysiconswitcher.mk
 
