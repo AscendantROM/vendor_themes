@@ -13,9 +13,6 @@ include vendor/themes/fonts/fonts.mk
 # Iconpacks
 include vendor/themes/iconpacks/iconpacks.mk
 
-# Iconshapes
-include vendor/themes/iconshapes/iconshapes.mk
-
 # System Icon Switcher
 #include vendor/themes/sysiconswitcher/sysiconswitcher.mk
 
