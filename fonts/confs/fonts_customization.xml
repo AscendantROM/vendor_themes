@@ -38,14 +38,4 @@
       <font weight="600" style="italic">ZillaSlab-SemiBoldItalic.ttf</font>
     </family>
     <alias name="zilla-slab-semi-bold" to="zilla-slab-medium" weight="600" />
-
-    <family customizationType="new-named-family" name="comfortaa">
-        <font weight="300" style="light">Comfortaa-Light.ttf</font>
-        <font weight="400" style="normal">Comfortaa-Regular.ttf</font>
-        <font weight="500" style="normal">Comfortaa-Medium.ttf</font>
-        <font weight="700" style="normal">Comfortaa-Bold.ttf</font>
-    </family>
-    <alias name="comfortaa-medium" to="comfortaa" weight="500" />
-
-
 </fonts-modification>
