@@ -11,7 +11,7 @@ PRODUCT_PACKAGES += \
     IconPackFilledSystemUIOverlay \
     IconPackFilledThemePickerOverlay \
     IconPackRoundedAndroidOverlay \
-    IconPackRoundedLauncherOverlay \
+    IconPackRoundedLauncherOverlay
     IconPackRoundedSettingsOverlay \
     IconPackRoundedSystemUIOverlay \
     IconPackRoundedThemePickerOverlay
