@@ -5,6 +5,7 @@ PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/themes/fonts/confs,
 PRODUCT_PACKAGES += \
     FontArbutusSourceOverlay \
     FontArvoLatoOverlay \
+    FontComfortaaOverlay \
     FontNotoSerifSourceOverlay \
     FontRubikRubikOverlay
 
