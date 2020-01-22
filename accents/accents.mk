@@ -22,6 +22,7 @@ PRODUCT_PACKAGES += \
     SnapYellow \
     TGBlue \
     Teal \
+    Tiffany \
     UserFive \
     UserFour \
     UserOne \
