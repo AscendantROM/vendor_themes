@@ -23,13 +23,6 @@ PRODUCT_PACKAGES += \
     TGBlue \
     Teal \
     Tiffany \
-    UserFive \
-    UserFour \
-    UserOne \
-    UserSeven \
-    UserSix \
-    UserThree \
-    UserTwo \
     WAGreen \
     XDAOrange \
     Yellow
