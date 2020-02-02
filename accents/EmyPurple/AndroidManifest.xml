@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.accents.EmyPurple"
+    package="org.descendant.accents.EmyPurple"
     android:versionCode="1"
     android:versionName="1.0">
     <overlay android:targetPackage="android" android:category="android.theme.customization.accent_color" android:priority="1"/>
 
-    <application android:label="EmyPurple" android:hasCode="false"/>
+    <application android:label="Emy Purple" android:hasCode="false"/>
 </manifest>

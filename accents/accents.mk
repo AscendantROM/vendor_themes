@@ -1,28 +1,29 @@
 # Accents
 PRODUCT_PACKAGES += \
     AnnieBrown \
+    AnotherMessengerBlue \
     BenefitsPink \
     BlueGrey \
     Brown \
     CadPurple \
     CosmopolitanPink \
     Cyan \
+    DarkBlue \
     EmyPurple \
     FerrariRed \
+    FluoGreen \
     Indigo \
     Lime \
     McYellow \
     MessengerBlue \
     Mint \
     OrangeIsTheNewBlack \
-    PSBlue \
-    RazerGreen \
+    PaleGreen \
     RubyRed \
     Silver \
     SnapYellow \
     TGBlue \
     Teal \
     Tiffany \
-    WAGreen \
-    XDAOrange \
+    XDOrange \
     Yellow
