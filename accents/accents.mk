@@ -9,6 +9,7 @@ PRODUCT_PACKAGES += \
     CosmopolitanPink \
     Cyan \
     DarkBlue \
+    DescendantBlue \
     EmyPurple \
     FerrariRed \
     FluoGreen \
