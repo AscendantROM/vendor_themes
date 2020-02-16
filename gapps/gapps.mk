@@ -1,6 +1,7 @@
 #GApps Themes
 PRODUCT_PACKAGES += \
     ElGoogActionsService \
+    ElGoogContacts \
     ElGoogDialer \
     ElGoogFeedback \
     ElGoogGboard \
