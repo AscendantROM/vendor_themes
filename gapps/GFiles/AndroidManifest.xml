@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.descendant.elGoogGFiles"
+    android:versionCode="1"
+    android:versionName="1.0">
+    <overlay android:targetPackage="com.google.android.apps.nbu.files"
+     android:targetName="Google Files" android:isStatic="true"
+       android:priority="1" />
+
+</manifest>

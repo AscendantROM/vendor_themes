@@ -1,0 +1,19 @@
+<resources>
+
+<color name="google_grey900">@*android:color/primary_device_default_settings</color>
+<color name="og_background_dark">@*android:color/primary_device_default_settings</color>
+<color name="og_bottom_drawer_background_dark">@*android:color/primary_device_default_settings</color>
+<color name="drawer_background">@*android:color/primary_device_default_settings</color>
+<color name="background_floating_material_dark">@*android:color/primary_device_default_settings</color>
+<color name="background_material_dark">@*android:color/primary_device_default_settings</color>
+<color name="design_default_color_on_background">@*android:color/primary_device_default_settings</color>
+<color name="files_color_background">@*android:color/primary_device_default_settings</color>
+<color name="file_preview_color_default">@*android:color/primary_device_default_settings</color>
+<color name="file_preview_popup_menu_text_color">@*android:color/primary_device_default_settings</color>
+<color name="file_thumbnail_overlay_text_color">@*android:color/primary_device_default_settings</color>
+<color name="files_window_background">@*android:color/primary_device_default_settings</color>
+<color name="folder_preview_color_default">@*android:color/primary_device_default_settings</color>
+<color name="scan_screen_background">@*android:color/primary_device_default_settings</color>
+<color name="total_storage_card_background">@*android:color/primary_device_default_settings</color>
+
+</resources>

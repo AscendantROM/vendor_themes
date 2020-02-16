@@ -1,0 +1,18 @@
+<resources>
+
+<color name="google_grey900">@*android:color/primary_device_default_settings</color>
+<color name="og_background_dark">@*android:color/primary_device_default_settings</color>
+<color name="og_bottom_drawer_background_dark">@*android:color/primary_device_default_settings</color>
+<color name="drawer_background">@*android:color/primary_device_default_settings</color>
+<color name="background_floating_material_dark">@*android:color/primary_device_default_settings</color>
+<color name="background_material_dark">@*android:color/primary_device_default_settings</color>
+<color name="design_default_color_on_background">@*android:color/primary_device_default_settings</color>
+<color name="m_search_bar_background">@*android:color/primary_device_default_settings</color>
+<color name="actionbar_bg_daynight">@*android:color/primary_device_default_settings</color>
+<color name="detail_card_preview_bg_daynight">@*android:color/primary_device_default_settings</color>
+<color name="ds_actionbar_background_color">@*android:color/primary_device_default_settings</color>
+<color name="m_actionbar_background">@*android:color/primary_device_default_settings</color>
+<color name="action_mode_background">@*android:color/primary_device_default_settings</color>
+<color name="blocos_primary_background_color">@*android:color/primary_device_default_settings</color>
+<color name="material_color_background_daynight">@*android:color/primary_device_default_settings</color>
+</resources>

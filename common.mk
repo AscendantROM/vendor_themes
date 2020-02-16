@@ -8,6 +8,9 @@ include vendor/themes/accents/accents.mk
 # Boot animation
 include vendor/themes/bootanimation/bootanimation.mk
 
+# GApps
+include vendor/themes/gapps/gapps.mk
+
 # System Icon Switcher
 #include vendor/themes/sysiconswitcher/sysiconswitcher.mk
 
