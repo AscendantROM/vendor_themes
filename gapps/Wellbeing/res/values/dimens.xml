@@ -1,0 +1,5 @@
+<resources>
+     <dimen name="settings_icon_height">18dp</dimen>
+     <dimen name="settings_icon_image_size">18dp</dimen>
+     <dimen name="settings_icon_width">18dp</dimen>
+</resources>

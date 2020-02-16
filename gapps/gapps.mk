@@ -13,4 +13,5 @@ PRODUCT_PACKAGES += \
 #    ElGoogGmsLocation \
     ElGoogMessaging \
     ElGoogPhotos \
-    ElGoogRestore
+    ElGoogRestore \
+    ElGoogWellbeing
