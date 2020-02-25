@@ -8,6 +8,9 @@ include vendor/themes/accents/accents.mk
 # Boot animation
 include vendor/themes/bootanimation/bootanimation.mk
 
+#Descendant Clock Flow Themes
+include vendor/themes/descendantclockflow/descendantclockflow.mk
+
 # GApps
 include vendor/themes/gapps/gapps.mk
 
