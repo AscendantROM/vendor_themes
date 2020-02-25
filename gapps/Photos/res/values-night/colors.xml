@@ -34,6 +34,11 @@
 <color name="gm_header_background_color_day_night">@*android:color/primary_device_default_settings</color>
 <color name="gm_header_background_color">@*android:color/primary_device_default_settings</color>
 <color name="google_grey900">@*android:color/primary_device_default_settings</color>
+<color name="photos_daynight_white_elevation_12dp">@*android:color/primary_dark_device_default_settings</color>
+<color name="photos_daynight_white_elevation_1dp">@*android:color/primary_dark_device_default_settings</color>
+<color name="photos_daynight_white_elevation_3dp">@*android:color/primary_dark_device_default_settings</color>
+<color name="photos_daynight_white_elevation_6dp">@*android:color/primary_dark_device_default_settings</color>
+
 <color name="googlesettings_color_background">@*android:color/primary_device_default_settings</color>
 <color name="googlesettings_color_primary_dark">@*android:color/primary_device_default_settings</color>
 <color name="knock_knock_background">@*android:color/primary_device_default_settings</color>
@@ -43,6 +48,7 @@
 <color name="material_grey_700">@*android:color/primary_device_default_settings</color>
 <color name="og_background_dark">@*android:color/primary_device_default_settings</color>
 <color name="og_bottom_drawer_background_dark">@*android:color/primary_device_default_settings</color>
+<color name="og_elevation_dark_2">@*android:color/primary_device_default_settings</color>
 <color name="people_avatar_preview_background">@*android:color/primary_device_default_settings</color>
 <color name="place_autocomplete_list_background">@*android:color/primary_device_default_settings</color>
 <color name="places_ui_default_primary_dark">@*android:color/primary_device_default_settings</color>

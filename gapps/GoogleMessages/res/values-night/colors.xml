@@ -1,6 +1,7 @@
 <resources>
 <color name="action_mode_background">@*android:color/primary_device_default_settings</color>
 <color name="actionbar_bg_daynight">@*android:color/primary_device_default_settings</color>
+<color name="action_bar_background_color_m2">@*android:color/primary_dark_device_default_settings</color>
 <color name="activity_dialog_background">@*android:color/primary_device_default_settings</color>
 <color name="alias_editor_background">@*android:color/primary_device_default_settings</color>
 <color name="app_invite_window_background">@*android:color/primary_device_default_settings</color>
@@ -9,6 +10,10 @@
 <color name="background_floating_material_dark">@*android:color/primary_device_default_settings</color>
 <color name="background_material_dark">@*android:color/primary_device_default_settings</color>
 <color name="blocos_primary_background_color">@*android:color/primary_device_default_settings</color>
+<color name="camera_mode_background">@*android:color/primary_dark_device_default_settings</color>
+<color name="message_bubble_color_incoming_dark_m2">@*android:color/primary_dark_device_default_settings</color>
+<color name="message_bubble_color_incoming_dark_m2_updated">@*android:color/primary_dark_device_default_settings</color>
+<color name="message_bubble_color_incoming_m2">@*android:color/primary_dark_device_default_settings</color>
 <color name="cards_container_background_color_night_mode">@*android:color/primary_device_default_settings</color>
 <color name="common_holo_light_primary_dark">@*android:color/primary_device_default_settings</color>
 <color name="complicationDrawable_backgroundColor">@*android:color/primary_device_default_settings</color>
@@ -33,6 +38,8 @@
 <color name="gm_header_background_collapsed_color_day_night">@*android:color/primary_device_default_settings</color>
 <color name="gm_header_background_color_day_night">@*android:color/primary_device_default_settings</color>
 <color name="gm_header_background_color">@*android:color/primary_device_default_settings</color>
+<color name="google_grey800">@*android:color/primary_device_default_settings</color>
+<color name="google_grey850">@*android:color/primary_device_default_settings</color>
 <color name="google_grey900">@*android:color/primary_device_default_settings</color>
 <color name="googlesettings_color_background">@*android:color/primary_device_default_settings</color>
 <color name="googlesettings_color_primary_dark">@*android:color/primary_device_default_settings</color>
@@ -41,6 +48,9 @@
 <color name="m_search_bar_background">@*android:color/primary_device_default_settings</color>
 <color name="material_color_background_daynight">@*android:color/primary_device_default_settings</color>
 <color name="material_grey_700">@*android:color/primary_device_default_settings</color>
+<color name="material_grey_800">@*android:color/primary_dark_device_default_settings</color>
+<color name="material_grey_850">@*android:color/primary_dark_device_default_settings</color>
+<color name="material_grey_900">@*android:color/primary_dark_device_default_settings</color>
 <color name="og_background_dark">@*android:color/primary_device_default_settings</color>
 <color name="og_bottom_drawer_background_dark">@*android:color/primary_device_default_settings</color>
 <color name="people_avatar_preview_background">@*android:color/primary_device_default_settings</color>
@@ -63,6 +73,7 @@
 <color name="sud_glif_v3_dialog_background_color_dark">@*android:color/primary_device_default_settings</color>
 <color name="suw_color_background_dark">@*android:color/primary_device_default_settings</color>
 <color name="suw_glif_background_color_dark">@*android:color/primary_device_default_settings</color>
+<color name="search_detail_fragment_status_bar_color">@*android:color/primary_dark_device_default_settings</color>
 <color name="system_update_snackbar_background">@*android:color/primary_device_default_settings</color>
 <color name="toast_background">@*android:color/primary_device_default_settings</color>
 <color name="tooltip_background_dark">@*android:color/primary_device_default_settings</color>
