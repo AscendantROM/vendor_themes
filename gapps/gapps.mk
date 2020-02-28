@@ -11,8 +11,8 @@ PRODUCT_PACKAGES += \
     ElGoogGFiles \
     ElGoogGmail \
     ElGoogGms \
-#    ElGoogGmsLocation \
     ElGoogMessaging \
     ElGoogPhotos \
     ElGoogRestore \
     ElGoogWellbeing
+#   ElGoogGmsLocation
