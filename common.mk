@@ -14,6 +14,9 @@ include vendor/themes/descendantclockflow/descendantclockflow.mk
 # GApps
 include vendor/themes/gapps/gapps.mk
 
+# Misc
+include vendor/themes/misc.mk
+
 # System Icon Switcher
 #include vendor/themes/sysiconswitcher/sysiconswitcher.mk
 
