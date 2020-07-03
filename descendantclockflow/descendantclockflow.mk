@@ -6,5 +6,6 @@ PRODUCT_PACKAGES += \
     Descendant \
     Earth \
     Moon \
+    Pinwheel \
     Swan \
     VenetianMask
