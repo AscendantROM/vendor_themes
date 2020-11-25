@@ -1,6 +1,0 @@
-<resources>
-
-    <!-- milliseconds before the heads up notification accepts touches.-->
-    <integer name="touch_acceptance_delay">5200</integer>
-
-</resources>

@@ -1,3 +1,0 @@
-<resources>
-    <integer name="notification_panel_header_gravity">0x30</integer>
-</resources>

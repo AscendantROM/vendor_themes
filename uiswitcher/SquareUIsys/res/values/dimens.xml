@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="corner_size">0dp</dimen>
-    <dimen name="corner_size_vol">0dp</dimen>
-    <dimen name="corner_size_qs">0dp</dimen>
-    <dimen name="brightness_drawable_corner">4dp</dimen>
-</resources>
-
