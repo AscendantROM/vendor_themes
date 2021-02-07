@@ -1,5 +1,6 @@
 # Accents
 PRODUCT_PACKAGES += \
+    Ascendant \
     AnnieBrown \
     AnotherMessengerBlue \
     BenefitsPink \
