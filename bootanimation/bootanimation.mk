@@ -15,5 +15,4 @@
 #
 
 PRODUCT_COPY_FILES += \
-    vendor/themes/bootanimation/bootanimation.zip:system/media/bootanimation.zip \
-    vendor/themes/bootanimation/bootanimation-dark.zip:system/media/bootanimation-dark.zip
+    vendor/themes/bootanimation/bootanimation.zip:system/media/bootanimation.zip
